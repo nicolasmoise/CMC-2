@@ -1,0 +1,6 @@
+{
+  "name": "RequiredInput",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RequiredInput.js"
+}
